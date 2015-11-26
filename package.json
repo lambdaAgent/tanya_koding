@@ -1,0 +1,31 @@
+{
+  "name": "tanya_koding",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.13.2",
+    "connect": "^3.4.0",
+    "cookie-parser": "~1.3.5",
+    "cors": "^2.7.1",
+    "debug": "^2.2.0",
+    "dotenv": "^1.2.0",
+    "express": "~4.13.1",
+    "hbs": "~3.1.0",
+    "jwt-simple": "^0.3.1",
+    "moment": "^2.10.6",
+    "mongoose": "^4.2.8",
+    "morgan": "~1.6.1",
+    "nodemailer": "^1.10.0",
+    "nodemailer-smtp-transport": "^1.0.4",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "querystring": "^0.2.0",
+    "require": "^2.4.20",
+    "serve-favicon": "~2.3.0",
+    "underscore": "^1.8.3"
+  }
+}
